@@ -5,7 +5,9 @@
     box-sizing: border-box;
     padding: 2% 5%;
 }
-
+.addfriend{
+    background-color: var(--background);
+}
 .containerflip > h2{
     text-align: center;
     color: var(--text-primary);
@@ -222,7 +224,8 @@ color: var(--text-primary);
   .friendlist > h2{
     text-align: center;
     color: var(--text-primary);
-    margin: 40px 0px;
+    padding: 40px 0px;
+    margin: 0px;
 }
   .content{
     color: var(--text-primary);

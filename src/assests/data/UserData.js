@@ -1,13 +1,13 @@
-import Sasiprofile from "../images/sasiprofile.jpeg";
-import Sasicover from "../images/sasicover.jpeg";
+import Kokiprofile from "../images/koki_profile.jpg";
+import Kokicover from "../images/Untitleddesign.png";
 import hayyoda from "../hoyoda.mp3";
 export const UserData = [
     {   
-        username:"Sasi",
-        email:"sasi@gmail.com",
-        password:"sasi123",
-        profilepic:Sasiprofile,
-        coverpic:Sasicover,
+        username:"Koki",
+        email:"koki@gmail.com",
+        password:"koki123",
+        profilepic:Kokiprofile,
+        coverpic:Kokicover,
         profilemusic:hayyoda
     },
 ];

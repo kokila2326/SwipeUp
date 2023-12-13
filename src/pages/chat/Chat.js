@@ -92,7 +92,7 @@ function Chat(){
       setTimeout(() => {
         var replyMessage = "";
         if (message === "hi"){
-          replyMessage = { text: 'hi, Sasi!', sender: 'other' };
+          replyMessage = { text: 'hi, Koki!', sender: 'other' };
         }
         else if (message === "how are you"){
           replyMessage = { text: 'i am good, how about you?', sender: 'other' };
