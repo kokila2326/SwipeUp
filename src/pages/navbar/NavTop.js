@@ -32,7 +32,7 @@ function NavTop() {
 
     const handleLogout = () => {
       setUser({});
-      navigate("/swipeup/");
+      navigate("/swipe_up/");
     }
 
     useEffect(()=>{
